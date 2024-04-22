@@ -1,1 +1,1 @@
-XPRA with a simple Dockerfile to implement
+XPRA with a simple Dockerfile for implementation
